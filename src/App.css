@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+.backimg{
+  width: 100vw;
+  height: 570px;
+  /* background-size: cover; */
+  position: relative;
+}
+/* .container{
+  
+} */
+
+.All{
+  position: relative;
+  
+}
+.counter-text{
+  position: absolute;
+  /* background-color: white; */
+  top: 0;
+  left: 27vw;
+  right: 25vw;
+}
+.texthead{
+  text-align: center;
+  /* color: whitesmoke; */
+}
+
+.inputext{
+  width: 500px;
+  margin: 0px 0px 0px 18px;
+  background-color: transparent;
+  border: 2px solid whitesmoke;
+  border-radius: 2px;
+}
+
+.buttons{
+  margin-left: 80px;
+}
+.whitetext{
+  color: whitesmoke;
+}
